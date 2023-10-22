@@ -6,6 +6,8 @@ Programming Tools:</p>
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=%27flat%27&)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&)
+
 
 Other Tools:</p>
 
