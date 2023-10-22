@@ -11,7 +11,7 @@ Programming Tools:</p>
 Databases:</p>
 
 ![MYSQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQ-05122A?style=%27flat%27&)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=%27flat%27&)
 
 
 Other Tools:</p>
