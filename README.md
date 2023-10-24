@@ -19,6 +19,8 @@ Other Tools:</p>
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&)
 ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-05122A?style=%27flat%27&)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=%27flat%27&)
+![PowerBI](https://img.shields.io/badge/-PowerBi-05122A?style=flat&)
 
 Environments:</p>
 
