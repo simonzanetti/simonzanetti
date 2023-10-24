@@ -21,6 +21,7 @@ Other Tools:</p>
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=%27flat%27&)
 ![PowerBI](https://img.shields.io/badge/-PowerBi-05122A?style=flat&)
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&)
 
 Environments:</p>
 
